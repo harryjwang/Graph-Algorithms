@@ -1,0 +1,12 @@
+insert 4 5 10 1
+insert 6 4 0.3 0.1
+print 10
+insert 6 1 1 1
+print 6
+insert 5 8 0.4 0.3
+delete 4
+print 6
+print 5
+path 6 5
+path 4 6
+exit

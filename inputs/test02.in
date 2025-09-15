@@ -1,0 +1,6 @@
+load files/4-load.txt
+path 1 5
+update files/4-load_update.txt
+path 1 5
+lowest 1 5
+exit
